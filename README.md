@@ -9,7 +9,7 @@ flowchart TB
 
     subgraph External Systems
         WeatherService[Serviço de Dados Meteorológicos]
-        IoTPlatform[Plataforma de Integração (Middleware)]
+        IoTPlatform[Plataforma de Integração - Middleware]
         Machines[Máquinas Agrícolas com IoT]
         Database[Banco de Dados Central]
     end
